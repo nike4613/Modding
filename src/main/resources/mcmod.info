@@ -1,0 +1,30 @@
+[
+{
+  "modid": "TPDWSP",
+  "name": "TPDW Sapient Pearwood",
+  "description": "Sapient Pearwood!",
+  "version": "0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DaNike"],
+  "credits": "DaNike and Terry Pratchett for the idea of Sapient Pearwood!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+},
+{
+  "modid": "LeVCore",
+  "name": "",
+  "description": "",
+  "version": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DaNike"],
+  "credits": "DaNike",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
